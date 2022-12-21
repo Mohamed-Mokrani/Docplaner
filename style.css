@@ -411,7 +411,7 @@ nav ul ol li:hover {
 /*----------------section 5-----------*/
 
 .sec5 {
-  margin: 90px auto;
+  margin: 100px auto 50px;
   width: 31%;
   text-align: center;
 }
@@ -441,7 +441,7 @@ nav ul ol li:hover {
 
 .country {
   width: calc((100% / 3)-1%);
-  border: #0000001a 1px solid;
+  border: #0000000a 1px solid;
   border-radius: 5px;
   margin: 15px 0px;
 }
@@ -512,7 +512,6 @@ nav ul ol li:hover {
 
 /*----------------foooter--------------------*/
 footer {
-  
   text-align: center;
   border-top: 1px solid rgba(0, 0, 0, 0.061);
   padding: 20px auto 0px;
