@@ -210,6 +210,10 @@ nav ul ol li:hover {
   margin: 20px auto;
 }
 
+.widths {
+  margin-left: 100px;
+}
+
 .sec3 p {
   font-size: 1.625em;
   font-family: Work Sans, Arial, sans-serif;
@@ -265,6 +269,7 @@ nav ul ol li:hover {
 }
 
 .leftt {
+  margin-right: 50px;
   width: fit-content;
   position: relative;
   top: 90px;
@@ -500,7 +505,6 @@ nav ul ol li:hover {
   padding: 12px;
   border-radius: 5px;
   border: none;
-  
 }
 
 /*----------------foooter--------------------*/
