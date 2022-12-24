@@ -26,8 +26,6 @@ nav {
 
 nav img {
   width: 260px;
-}
-nav img:hover {
   cursor: pointer;
 }
 
@@ -42,11 +40,11 @@ nav ul li {
   list-style: none;
   color: #ababab;
   margin-left: 12px;
-  cursor: pointer;
 }
 
 nav ul li:hover {
   color: #00b39b;
+  cursor: pointer;
 }
 
 nav ul ol {
